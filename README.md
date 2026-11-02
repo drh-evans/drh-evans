@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
  
-> *Final year BSc Computer Science student at Swansea University, I love working on software that is meaningful and helps achieve something! Always looking to push myself and grow as an individual.*
- 
-- BSc Computer Science (Hons), Swansea University.
-- Currently exploring **web application development**.
-- I'm always open to roles and opportunities to apply my knowledge and grow my skillset!
+> *Part-time MSc Software Engineering student at the University of Wales Trinity St David, alongside my full-time graduate role as a Trainee Software Engineer.*
+
+- BSc Computer Science (Hons), Swansea University, graduated in July 2026 with First Class Honours.
+- Always open to opportunities to apply and test my knowledge and grow my skillset!
+- Siaradwr Cymraeg / Welsh Speaker 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 ---
 
