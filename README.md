@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
  
-> *Part-time MSc Software Engineering student at the University of Wales Trinity St David, alongside my full-time graduate role as a Trainee Software Engineer.*
+> *Part-time MSc Software Engineering student at the University of Wales Trinity St David, alongside my graduate role as a Trainee Software Engineer.*
 
 - BSc Computer Science (Hons), Swansea University, graduated in July 2026 with First Class Honours.
 - Always open to opportunities to apply and test my knowledge and grow my skillset!
